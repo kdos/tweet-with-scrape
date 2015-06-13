@@ -1,0 +1,16 @@
+{
+  "name"         : "node-web-scrape",
+  "version"      : "0.0.1",
+  "description"  : "Scrape the website getyourguide.com",
+  "main"         : "dynamicScrapper.js",
+  "author"       : "komaldeep <deeper.komal@gmail.com>",
+  "dependencies" : {
+    "csv-stringify" : "latest",
+    "async": "latest",
+    "cheerio": "latest",
+    "express": "latest",
+    "twit": "latest",
+    "json-2-csv": "latest"
+  },
+  "license" : "MIT"
+}

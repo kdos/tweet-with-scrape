@@ -1,0 +1,995 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"console.log(message);"
+			],
+			[
+				"quote",
+				"quote1"
+			],
+			[
+				"input",
+				"input__half	(style.css)"
+			],
+			[
+				"activity",
+				"activity__bar	(style.css)"
+			],
+			[
+				"spa",
+				"space"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"wid",
+				"width	Attr"
+			],
+			[
+				"console",
+				"console.log(message);"
+			],
+			[
+				"app",
+				"appendFileSync('output	(ithaka_scrapper.js)"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"temp",
+				"$templateCache	AngularJS"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"wrt",
+				"writeFile	(scrapper.js)"
+			],
+			[
+				"wr",
+				"writeToFile"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"scra",
+				"scrapLink"
+			],
+			[
+				"go",
+				"goToLinks"
+			],
+			[
+				"nav",
+				"navbar__seller__a	(style.css)"
+			],
+			[
+				"F",
+				"F05F71"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"com",
+				"complete__h2"
+			],
+			[
+				"compl",
+				"complete__h2	(style.css)"
+			],
+			[
+				"btn",
+				"btn__align	(style.css)"
+			],
+			[
+				"lete",
+				"letter-spacing"
+			],
+			[
+				"let",
+				"letter-spacing"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"E",
+				"E91E63"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"ma",
+				"material"
+			],
+			[
+				"coun",
+				"counter__add	(style.css)"
+			],
+			[
+				"book",
+				"bookExperience__hr	(style.css)"
+			],
+			[
+				"cal",
+				"calender__tabs"
+			],
+			[
+				"log",
+				"loginBox"
+			],
+			[
+				"calend",
+				"calender__head__left"
+			],
+			[
+				"onl",
+				"onclick	Attr"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"side",
+				"sidenav__hr"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"wi",
+				"with	with"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"sp",
+				"space"
+			],
+			[
+				"ac",
+				"activityDetail__btn	(style.css)"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"si",
+				"sight_seeing"
+			],
+			[
+				"nig",
+				"night_life"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"shadow",
+				"shadow-1"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"impor",
+				"important"
+			],
+			[
+				"new",
+				"newBooking__input"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"bor",
+				"border-bottom-style"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"pa",
+				"padding__remove"
+			],
+			[
+				"col",
+				"col"
+			],
+			[
+				"ad",
+				"addTraveller__add"
+			],
+			[
+				"de",
+				"detailCalender__border"
+			],
+			[
+				"der",
+				"detailCalender__border"
+			],
+			[
+				"h",
+				"h4	Tag"
+			],
+			[
+				"del",
+				"detailCalender__head"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"Cr",
+				"Cruise"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"ca",
+				"calender__arrows"
+			],
+			[
+				"ar",
+				"arrow"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"cla",
+				"calender"
+			],
+			[
+				"MARGI",
+				"margin-left"
+			],
+			[
+				"activityComplete",
+				"activityComplete__div__p"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"a",
+				"activityComplete__div__div"
+			],
+			[
+				"act",
+				"activityComplete__div"
+			],
+			[
+				"up",
+				"upload__button"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"sl",
+				"slot__div__pill__fri"
+			],
+			[
+				"slot__div__pill_",
+				"slot__div__pill__sun"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"in",
+				"input__half__right"
+			],
+			[
+				"bro",
+				"border-radius"
+			],
+			[
+				"comp",
+				"company__p"
+			],
+			[
+				"ng",
+				"ng-controller	AngularJS"
+			],
+			[
+				"bo",
+				"bower_components"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"tw",
+				"twitter"
+			],
+			[
+				"f",
+				"field2"
+			],
+			[
+				"fie",
+				"field2"
+			],
+			[
+				"sign",
+				"signup2__icon"
+			],
+			[
+				"bos",
+				"box-shadow"
+			],
+			[
+				"e",
+				"E91E63"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"l",
+				"loginBox__p1"
+			],
+			[
+				"lo",
+				"loginBox__p"
+			],
+			[
+				"na",
+				"navbar__seller__a"
+			],
+			[
+				"p",
+				"placeholder"
+			],
+			[
+				"ex",
+				"express"
+			],
+			[
+				"get",
+				"http.get(options, cb);"
+			],
+			[
+				"ove",
+				"overView__h"
+			],
+			[
+				"ir",
+				"iframe__container"
+			],
+			[
+				"over",
+				"overView__badge"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"readF",
+				"fs.readFileSync(path, encoding);"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"EOF",
+				"Buffer(subject, encoding, offset);"
+			],
+			[
+				"$ua",
+				"$authProvider"
+			],
+			[
+				"$aut",
+				"$authProvider"
+			],
+			[
+				"pro",
+				"processForm"
+			],
+			[
+				"form",
+				"formData"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"jas",
+				"Jasmine BDD: Create spec file"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"pa",
+				"Package Control: Add Repository"
+			],
+			[
+				"set",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"angula",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"comme",
+				"Toggle Block Comment"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/komal/public_html/nodeTut/output.csv",
+		"/home/komal/public_html/nodeTut/output.json",
+		"/home/komal/public_html/nodeTut/myscrap.js",
+		"/home/komal/public_html/nodeTut/scrapper.js",
+		"/home/komal/public_html/ithaka_seller/css/style.css",
+		"/home/komal/public_html/ithaka_seller/slots.html",
+		"/home/komal/public_html/ithaka_seller/signup_complete.html",
+		"/home/komal/public_html/ithaka_seller/addNewActivity.html",
+		"/home/komal/public_html/ithaka_seller/activityComplete.html",
+		"/home/komal/public_html/ithaka_seller/bookingDone.html",
+		"/home/komal/public_html/ithaka_seller/detailsOfNewActivity.html",
+		"/home/komal/public_html/ithaka_seller/contributors.txt",
+		"/home/komal/public_html/nodeTut/ithaka_scrapper.js",
+		"/home/komal/public_html/ithaka_seller/uploadImages.html",
+		"/home/komal/public_html/ithaka_seller/signUp_2.html",
+		"/home/komal/public_html/ithaka_seller/seller_page.html",
+		"/home/komal/public_html/ithaka_seller/scecifyAvailability.html",
+		"/home/komal/public_html/ithaka_seller/newBooking.html",
+		"/home/komal/public_html/nodeTut/package.json",
+		"/home/komal/public_html/nodeTut/s.js",
+		"/home/komal/public_html/ithaka_seller/package.json",
+		"/home/komal/public_html/ithaka_seller/Gruntfile.js",
+		"/home/komal/public_html/ithaka_landing/activityDetail.html",
+		"/home/komal/Gruntfile.js",
+		"/home/komal/public_html/ithaka_landing/bookExperience.html",
+		"/home/komal/public_html/ithaka_landing/checkout.html",
+		"/home/komal/public_html/ithaka_landing/css/style.css",
+		"/home/komal/public_html/ithaka_landing/index.html",
+		"/home/komal/public_html/startbootstrap-simple-sidebar-1.0.4/index.html",
+		"/home/komal/public_html/seed_ang/app/css/style.css",
+		"/home/komal/public_html/seed_ang/app/view2/activity.html",
+		"/home/komal/public_html/ithaka_landing/bower_components/bootstrap-material-design/dist/test.html",
+		"/home/komal/public_html/ithaka_landing/bower_components/bootstrap-material-design/Gruntfile.js",
+		"/home/komal/public_html/ithaka_landing/css/material.min.css",
+		"/home/komal/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/home/komal/.cache/.fr-wQR7mz/sprites.css",
+		"/home/komal/public_html/ithaka_landing/style.scss",
+		"/home/komal/public_html/ithaka_landing/js/script.js",
+		"/home/komal/public_html/django_tut/mysite/polls/models.py",
+		"/home/komal/public_html/django_tut/mysite/polls/admin.py",
+		"/home/komal/public_html/proj/css/bootstrap.css",
+		"/home/komal/public_html/samanvay/index.html",
+		"/home/komal/public_html/samanvay/css/style.css",
+		"/home/komal/public_html/samanvay/js/script.js",
+		"/home/komal/public_html/samanvay1/css/style.css",
+		"/home/komal/public_html/samanvay/css/bootstrap.css",
+		"/home/komal/public_html/plubloader/index.html",
+		"/home/komal/public_html/plubloader/app.js",
+		"/home/komal/public_html/nodeTut/dynamicScrapper.js",
+		"/home/komal/public_html/plubloader/readMe.md",
+		"/home/komal/public_html/nodeTut/sample.js",
+		"/home/komal/public_html/seed_ang/app/view2/view2.js",
+		"/home/komal/public_html/plubloader/js/angular-file-upload.js",
+		"/home/komal/public_html/plubloader/scripts/app.js",
+		"/home/komal/public_html/plubloader/upload.php",
+		"/home/komal/public_html/plupload-2.1.4/examples/dump.php",
+		"/home/komal/public_html/plubloader/css/style.css",
+		"/home/komal/public_html/plubloader/js/script.js",
+		"/home/komal/public_html/plupload-2.1.4/examples/custom.html",
+		"/home/komal/public_html/samanvay1/index.html",
+		"/home/komal/public_html/seed_c/app/view2/view2.js",
+		"/home/komal/public_html/seed_ang/app/view2/signup.html",
+		"/home/komal/Downloads/122 activities found for Bangkok.html",
+		"/home/komal/public_html/nodeTut/abcd.html",
+		"/home/komal/public_html/seed_ang/app/view2/activity.js",
+		"/home/komal/public_html/seed_ang/app/app.js",
+		"/home/komal/public_html/proj/js/bootstrap.js",
+		"/home/komal/public_html/ithaka/assets/bootstrap/css/bootstrap.min.css",
+		"/home/komal/public_html/seed_ang/app/view2/view2.html",
+		"/home/komal/.cache/.fr-ATtOsY/sprites.css",
+		"/home/komal/public_html/seed_ang/app/index.html",
+		"/home/komal/public_html/nodeTut/start.html",
+		"/home/komal/public_html/nodeTut/test.txt",
+		"/home/komal/Desktop/as.html",
+		"/home/komal/node_modules/satellizer/satellizer.js",
+		"/home/komal/public_html/seed_ang/app/view2/auth.client.js",
+		"/home/komal/public_html/samanvay1/css/main.css",
+		"/home/komal/public_html/ithaka_main/index.html",
+		"/home/komal/public_html/ithaka_main/js/script.js",
+		"/home/komal/public_html/ithaka_main/css/style.css",
+		"/home/komal/public_html/seed_ang/app/view2/view2_test.js",
+		"/home/komal/public_html/seed_ang/app/css/materialize.css",
+		"/home/komal/public_html/seed_ang/karma.conf.js",
+		"/home/komal/public_html/samanvay1/js/_main.js",
+		"/media/komal/PENDRIVE/codes_html/squadfree/index.html",
+		"/media/komal/PENDRIVE/codes_html/squadfree/js/custom.js",
+		"/media/komal/PENDRIVE/codes_html/squadfree/css/style.css",
+		"/home/komal/.cache/.fr-5YXtxg/simple-parallax-scrolling-tutorial-f/js/_main.js",
+		"/home/komal/public_html/samanvay1/js/enquire.min.js",
+		"/home/komal/public_html/samanvay/css/main.css",
+		"/home/komal/.cache/.fr-P3bAhN/simple-parallax-scrolling-tutorial-f/index.html",
+		"/home/komal/public_html/samanvay/index.php",
+		"/home/komal/public_html/clock.sh",
+		"/home/komal/public_html/tut/tutorial/quickstart/serializers.py",
+		"/home/komal/public_html/seed_ang/app/activity.html",
+		"/home/komal/public_html/samanvay/layouts/header.php",
+		"/home/komal/public_html/tut/manage.py",
+		"/home/komal/public_html/seed_ang/app/js/ng-infinite-scroll.min.js",
+		"/home/komal/public_html/seed_ang/app/js/ng-infinite-scroll.js",
+		"/home/komal/public_html/ithaka/seller.html",
+		"/home/komal/public_html/ithaka/assets/js/custom.js",
+		"/home/komal/public_html/ithaka/assets/css/style.css",
+		"/home/komal/public_html/2015/fitness_in_you.css",
+		"/home/komal/public_html/2015/index.php",
+		"/home/komal/public_html/2015/javascript_file.js",
+		"/home/komal/public_html/materialize_new/index.html",
+		"/home/komal/public_html/ithaka/index.html",
+		"/home/komal/public_html/seed_ang/app/view1/view1.html",
+		"/home/komal/public_html/seed_ang/app/app.css",
+		"/home/komal/public_html/seed_ang/app/js/jquery-2.1.1.min.js",
+		"/home/komal/public_html/seed_ang/app/index1.html",
+		"/home/komal/public_html/seed_ang/app/view1/view1.js",
+		"/home/komal/public_html/ithaka_main/css/materialize.min.css",
+		"/home/komal/public_html/materialize_new/css/materialize.min.css",
+		"/home/komal/public_html/ithaka_main/icons/star.ico",
+		"/home/komal/public_html/ithaka_main/work/bg_1.jpg",
+		"/home/komal/public_html/materialize_new/css/style.css",
+		"/home/komal/public_html/seed_ang/e2e-tests/scenarios.js",
+		"/home/komal/public_html/seed_ang/e2e-tests/protractor.conf.js",
+		"/home/komal/public_html/ithaka/assets/js/script.js",
+		"/home/komal/public_html/font-awesome/css/font-awesome.css",
+		"/home/komal/public_html/woothemes-FlexSlider-6df2881/demo/basic-carousel.html",
+		"/home/komal/public_html/ithaka/blog.html",
+		"/home/komal/.cache/.fr-u7QZGa/js/custom.js",
+		"/home/komal/public_html/ithaka/index1.html",
+		"/home/komal/.cache/.fr-xaRZIV/FoodWorld/html/index.html",
+		"/home/komal/.cache/.fr-ZnxKx9/FoodWorld/html/modules.php",
+		"/home/komal/.cache/.fr-FI40rW/FoodWorld/html/editor_content.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"   \n",
+			"#E91E63",
+			"...",
+			"..\n",
+			"auto",
+			"hr",
+			";\n",
+			"\">\n",
+			"default",
+			"space",
+			"hr",
+			"\"></",
+			";\n",
+			"right",
+			">\n",
+			"h1",
+			"background",
+			"%;\n",
+			"bright",
+			">\n",
+			"    \n",
+			"files",
+			"field2",
+			"select",
+			"<i class=\"fa fa-plus pull-left\"></i>",
+			"bangkok",
+			"length",
+			"var",
+			">\n",
+			";\n",
+			"    $authProvider.facebook({\n        clientId: '1579596005622373'\n    });",
+			"signupUrl",
+			"ng",
+			"about",
+			"myId",
+			";\n",
+			".7",
+			"0",
+			".1",
+			".82",
+			";\n",
+			"head",
+			"heading__h",
+			"h3",
+			"slide",
+			"section",
+			"@keyframes ",
+			"@keyframes r",
+			"content",
+			"mdi-navigation-menu:before",
+			"mdi-navi",
+			"section",
+			"nav ",
+			"$",
+			"button",
+			"one",
+			"box-sha",
+			"icon",
+			"grads",
+			"images",
+			"id",
+			"mce",
+			"c_e",
+			"inline",
+			".col.s2",
+			".col ",
+			"col",
+			"tabs",
+			"p",
+			"span",
+			"card",
+			"@keyframes",
+			"cookie",
+			");\n",
+			"try",
+			"});",
+			">\n",
+			"27",
+			"blue",
+			"red",
+			">\n",
+			"href",
+			">\n",
+			"gyms",
+			";\n",
+			"}",
+			">",
+			"*);\n",
+			"stdin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#F05F71",
+			".5",
+			".7",
+			"overView__h",
+			"h2",
+			"h3",
+			"Section",
+			"class",
+			"div",
+			"test",
+			"#cdcdcd",
+			"#ffffff"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "spa_try.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/public_html/backend.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
